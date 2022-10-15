@@ -26,18 +26,13 @@ Example 2:
 const getIndex = (array) => Math.floor(array.length / 2)
 
 const findMedianSortedArrays = function (nums1, nums2) {
-  const size = nums1.length + nums2.length
+  const concatArray = nums1.concat(nums2).sort((a, b) => a - b)
 
-  if (size == 0) return null
-  if (size == 1) return nums1.length > 0 ? nums1[0] : nums2[0]
-
-  const concatedArray = nums1.concat(nums2).sort((a, b) => a - b)
-
-  const index = getIndex(concatedArray)
+  const index = getIndex(concatArray)
 
   // is odd
-  if (concatedArray.length % 2 == 1)
-    return concatedArray[index]
+  if (concatArray.length % 2 == 1)
+    return concatArray[index]
 
-  return (concatedArray[index] + concatedArray[index - 1]) / 2
+  return (concatArray[index] + concatArray[index - 1]) / 2
 };
