@@ -1,8 +1,7 @@
 /* Students attendance list template
-  Name Surname
+  Karolina Wiaderek
   {
     07.10.2022
     14.10.2022
-    ....
   }
 */
