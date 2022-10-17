@@ -1,8 +1,13 @@
 /* Students attendance list template
-  Zofia Szyposzyńska
+  Name Surname
   {
     07.10.2022
     14.10.2022
     ....
+  }
+  Zofia Szyposzyńska 
+  {
+  07.10.2022
+  14.10.2022
   }
 */
