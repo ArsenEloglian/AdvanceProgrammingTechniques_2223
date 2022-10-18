@@ -1,5 +1,5 @@
 /* Students attendance list template
-  Name Surname
+  Michał Barański
   {
     07.10.2022
     14.10.2022
