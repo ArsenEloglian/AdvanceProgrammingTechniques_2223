@@ -6,6 +6,6 @@
          return 0;
      }
      
-     return (words[words.length - 1].length + "\n");
+     return words[words.length - 1].length
      
- }
+ };
