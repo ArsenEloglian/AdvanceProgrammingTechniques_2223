@@ -1,0 +1,8 @@
+C:\Users\Monika\source\repos\38_Count_and_say\38_Count_and_say\bin\Debug\38_Count_and_say.exe.config
+C:\Users\Monika\source\repos\38_Count_and_say\38_Count_and_say\bin\Debug\38_Count_and_say.exe
+C:\Users\Monika\source\repos\38_Count_and_say\38_Count_and_say\bin\Debug\38_Count_and_say.pdb
+C:\Users\Monika\source\repos\38_Count_and_say\38_Count_and_say\obj\Debug\38_Count_and_say.csproj.AssemblyReference.cache
+C:\Users\Monika\source\repos\38_Count_and_say\38_Count_and_say\obj\Debug\38_Count_and_say.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monika\source\repos\38_Count_and_say\38_Count_and_say\obj\Debug\38_Count_and_say.csproj.CoreCompileInputs.cache
+C:\Users\Monika\source\repos\38_Count_and_say\38_Count_and_say\obj\Debug\38_Count_and_say.exe
+C:\Users\Monika\source\repos\38_Count_and_say\38_Count_and_say\obj\Debug\38_Count_and_say.pdb
