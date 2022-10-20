@@ -1,8 +1,8 @@
 /* Students attendance list template
-  Name Surname
+  Barbara Kosior
   {
-    07.10.2022
-    14.10.2022
+    07.10.2022 
+    14.10.2022 
     ....
   }
 */
