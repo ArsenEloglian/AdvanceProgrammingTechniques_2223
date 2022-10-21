@@ -1,4 +1,5 @@
 /* Students attendance list template
+  Name Surname
   Barbara Kosior
   {
     07.10.2022 
