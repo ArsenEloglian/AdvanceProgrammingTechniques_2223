@@ -25,7 +25,7 @@ Example 2:
 
 const getIndex = (array) => Math.floor(array.length / 2)
 
-const findMedianSortedArrays = (nums1, nums2) => {
+const findMedianSortedArrays = function (nums1, nums2) {
   const concatArray = nums1.concat(nums2).sort((a, b) => a - b)
 
   const index = getIndex(concatArray)
