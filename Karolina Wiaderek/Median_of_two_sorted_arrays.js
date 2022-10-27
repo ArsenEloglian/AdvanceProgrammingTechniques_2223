@@ -31,8 +31,7 @@ const findMedianSortedArrays = function (nums1, nums2) {
   const index = getIndex(concatArray)
 
   // is odd
-  if (concatArray.length % 2 == 1)
-    return concatArray[index]
+  if (concatArray.length % 2 == 1) return concatArray[index]
 
   return (concatArray[index] + concatArray[index - 1]) / 2
-};
+}

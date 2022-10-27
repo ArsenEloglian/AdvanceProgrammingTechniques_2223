@@ -4,7 +4,7 @@
  */
 const calculateRanges = () => ({
   lower: -Math.pow(2, 31),
-  upper: Math.pow(2, 31) - 1,
+  upper: Math.pow(2, 31) - 1
 })
 
 /**
@@ -13,7 +13,8 @@ const calculateRanges = () => ({
  * @param {Record<string, number>} param1
  * @returns {boolean}
  */
-const checkIfOutOfScope = (number, { lower, upper }) => number < lower || number > upper
+const checkIfOutOfScope = (number, { lower, upper }) =>
+  number < lower || number > upper
 
 /**
  * Function reverse the number
@@ -33,4 +34,4 @@ const reverse = (number) => {
   if (checkIfOutOfScope(reversed, ranges)) return 0
 
   return checkIfNegative ? -Math.abs(reversed) : reversed
-};
+}

@@ -1,0 +1,16 @@
+{
+  "name": "karolina-wiaderek",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint -c @eslintrc/.eslintrc.js **/*.js --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1"
+  }
+}
