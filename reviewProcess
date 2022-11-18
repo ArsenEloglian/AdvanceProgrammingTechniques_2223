@@ -9,4 +9,8 @@
 # Attendance list has to follow the correct naming template for commits and pull requests:
 # Update AttendanceList <date>
 # 
+# Leetcode tasks have to follow the correct naming template for commits and pull requests with description:
+# <number of task in leetcode>. <name of the task>
+#
+# Every commit should be signed with university e-mail
 #
