@@ -26,4 +26,4 @@
 # 
 # 7) Stosuje podstawowe wzorce projektowe.
 # <Imie_Nazwisko>
-# <Imie_Nazwisko>
+# Monika_Mostek
