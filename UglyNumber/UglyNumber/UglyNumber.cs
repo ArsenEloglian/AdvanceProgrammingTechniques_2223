@@ -42,14 +42,14 @@ namespace UglyNumber
             int num = 52038753;
             int num2 = 6;
             if (IsUgly(num))
-                Console.WriteLine(num + " is an ugly number");
+                Console.WriteLine(num + " is an ugly number\n");
             else
-                Console.WriteLine(num + " is NOT an ugly number");
+                Console.WriteLine(num + " is NOT an ugly number\n");
 
             if (IsUgly(num2))
-                Console.WriteLine(num2 + " is an ugly number");
+                Console.WriteLine(num2 + " is an ugly number\n");
             else
-                Console.WriteLine(num2 + " is NOT an ugly number");
+                Console.WriteLine(num2 + " is NOT an ugly number\n");
         }
     }
 }
