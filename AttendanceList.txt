@@ -100,9 +100,13 @@ Vladyslav Zagurskiy
 }
 Zofia Szyposzyńska 
 {
+  07.10.2022
+  14.10.2022
+  28.10.2022
   18.11.2022
 }
 Monika Mostek
 {
+  04.11.2022
   18.11.2022
 }

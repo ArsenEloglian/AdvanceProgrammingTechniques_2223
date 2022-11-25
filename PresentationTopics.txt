@@ -1,15 +1,15 @@
 # Presentation Topics
 # 
 # 1) Analizuje istniejące problemy programistyczne w kontekście obiektowym.
-# <Imie_Nazwisko>
+# Artur_Grabowski
 # <Imie_Nazwisko>
 # 
 # 2) Tworząc program potrafi zarządzać dynamicznie przydzielanymi zasobami.
-# <Imie_Nazwisko>
-# <Imie_Nazwisko>
+# Barbara_Kosior
+# Zofia_Szyposzyńska
 #
 # 3) Używa zaawansowanych narzędzi i bibliotek programistycznych dostępnych w wybranym języku programowania.
-# <Imie_Nazwisko>
+# Eliza_Wielocha
 # Mateusz_Sapała
 # 
 # 4) Umie przeprowadzić testy jednostkowe aplikacji (za pomocą własnych lub udostępnionych szkieletów testujących).
@@ -17,7 +17,7 @@
 # Kacper_Węgrzynowski
 # 
 # 5) Stosuje techniki śledzenia aplikacji.
-# <Imie_Nazwisko>
+# Adrian_Kunikowski
 # <Imie_Nazwisko>
 # 
 # 6) Programuje z użyciem wyjątków.
@@ -25,5 +25,6 @@
 # Marcin_Kowalski
 # 
 # 7) Stosuje podstawowe wzorce projektowe.
-# Barbara_Kosior
+# <Imie_Nazwisko>
 # Monika_Mostek
+
