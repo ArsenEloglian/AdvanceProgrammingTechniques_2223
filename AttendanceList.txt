@@ -15,6 +15,7 @@ Adrian Kunikowski
   04.11.2022
   18.11.2022
   25.11.2022
+  02.12.2022
 }
 Kacper Węgrzynowski
 {
@@ -25,6 +26,7 @@ Kacper Węgrzynowski
   04.11.2022
   18.11.2022
   25.11.2022
+  02.12.2022
 }
 Konrad Stępniak
 {
@@ -34,6 +36,7 @@ Konrad Stępniak
   28.10.2022
   18.11.2022
   25.11.2022
+  02.12.2022
 }
 Eliza Wielocha 
 {
@@ -44,6 +47,7 @@ Eliza Wielocha
   04.11.2022
   18.11.2022
   25.11.2022
+  02.12.2022
 }
 Mateusz Sapala
 {
@@ -54,6 +58,7 @@ Mateusz Sapala
   04.11.2022
   18.11.2022
   25.11.2022
+  02.12.2022
 }
 Barbara Kosior
 {
@@ -63,6 +68,7 @@ Barbara Kosior
   28.10.2022
   18.11.2022
   25.11.2022
+  02.12.2022
 }
 Michał Barański
 {
@@ -73,6 +79,7 @@ Michał Barański
   04.11.2022
   18.11.2022
   25.11.2022
+  02.12.2022
 }
 Denys Shevchuk
 {
@@ -92,6 +99,7 @@ Marcin Kowalski
   04.11.2022
   18.11.2022
   25.11.2022
+  02.12.2022
 }
 Artur Grabowski
 {
@@ -116,6 +124,7 @@ Zofia Szyposzyńska
   28.10.2022
   18.11.2022
   25.11.2022
+  02.12.2022
 }
 Monika Mostek
 {
@@ -123,4 +132,5 @@ Monika Mostek
   04.11.2022
   18.11.2022
   25.11.2022
+  02.12.2022
 }
