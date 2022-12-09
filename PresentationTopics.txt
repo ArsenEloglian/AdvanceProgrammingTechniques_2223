@@ -18,13 +18,13 @@
 # 
 # 5) Stosuje techniki śledzenia aplikacji.
 # Adrian_Kunikowski
-# <Imie_Nazwisko>
+# Denys_Shevchuk
 # 
 # 6) Programuje z użyciem wyjątków.
 # Michał_Barański
 # Marcin_Kowalski
 # 
 # 7) Stosuje podstawowe wzorce projektowe.
-# <Imie_Nazwisko>
+# Vladyslav_Zagurskiy
 # Monika_Mostek
 
