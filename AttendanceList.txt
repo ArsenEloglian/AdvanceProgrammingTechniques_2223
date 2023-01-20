@@ -33,6 +33,7 @@ Kacper Węgrzynowski
   09.12.2022
   02.01.2023
   13.01.2023
+  20.01.2023
 }
 Konrad Stępniak
 {
