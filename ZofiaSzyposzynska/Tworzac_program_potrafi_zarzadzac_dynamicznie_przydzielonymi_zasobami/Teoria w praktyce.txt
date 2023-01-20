@@ -1,0 +1,142 @@
+Przykład 1
+
+#include <iostream>
+
+using namespace std;
+
+struct Lista {
+int var;
+Lista *_wsk;
+
+};
+
+void addList(Lista *&start);
+void printList(Lista *&start);
+void deleteList(Lista *&start);
+
+int main(){
+
+Lista *start;
+start = nullptr;
+
+addList(start);
+printList(start);
+deleteList(start);
+
+return 0;
+
+}
+
+void addList(Lista *&start)
+{
+
+    Lista *p;
+    p = start;
+
+    for(int i = 0; i < 10; i++)
+        {
+        p = new Lista;
+        p -> var = i;
+        p -> _wsk = start;
+        start = p;
+
+    }
+
+};
+
+void printList(Lista *&start)
+{
+
+    Lista *p;
+    p = start;
+
+        while(p) {
+            cout << p->var << " ";
+            p = p -> _wsk;
+        }
+        cout << "\n";
+
+    };
+
+
+void deleteList(Lista *&start){
+    Lista *p;
+    while(start) {
+        p = start;
+        cout << start-> var << "\t";
+        start = start -> _wsk;
+        if (start) cout << start-> var <<"\n";
+        delete p;
+    }
+
+
+}
+
+
+Przykład 2
+
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+	vector <int> tab;
+	int a;
+
+	cout<<"Wypisz 10 liczb calkowitych: ";
+	for(int i=0; i<10; i++)
+	{
+		cin>>a;
+		tab.push_back(a);
+	}
+
+	sort(tab.begin(), tab.end());
+
+
+
+	for(int i=0; i<10; i++)
+		cout<<tab[i]<<' ';
+
+	return 0;
+}
+
+
+Przykład 3
+
+#include <vector>
+#include <iostream>
+
+int main()
+{
+    std::vector < int > wektor;
+
+    for( int i = 0; i < 10; ++i )
+    {
+        std::cout << "Rozmiar: " << wektor.size() << " Pojemnosc: " << wektor.capacity() << '\n';
+        wektor.push_back( i );
+    }
+}
+
+
+Przykład 4
+
+#include <vector>
+#include <iostream>
+
+int main()
+{
+    std::vector < int > wektor;
+
+    for( int i = 0; i < 20; i++ )
+         wektor.push_back( i );
+
+    wektor.erase( wektor.begin() );
+
+    wektor.erase( wektor.begin() + 8, wektor.end() );
+
+    for( int i = 0; i < wektor.size(); i++ )
+         std::cout << wektor[ i ] << ' ';
+
+}
